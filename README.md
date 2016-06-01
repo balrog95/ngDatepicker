@@ -1,3 +1,8 @@
+#### Fork
+This Fork adds suppoort for the first day of the month being Sunday.
+It also displays the current day's date before any interaction.
+Minified version is not in the repo.
+
 #### ngDatepicker
 AngularJS Simple Datepicker directive
 
